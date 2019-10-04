@@ -1,0 +1,4 @@
+# Use this Dockerfile to build the bot for deployment
+FROM golang:1.12.1-alpine3.9 AS dev
+
+# TODO... build steps
